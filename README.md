@@ -25,6 +25,6 @@ Africa region.
   </tr>
  
  <tr>
-    <td>AraBERTv0.2-Twitter</td> <td>60%</td>  <td>56%</td>  <td>57%</td>  <td>60%</td>
+    <td>AraBERTv0.2-Twitter</td> <td>61%</td>  <td>58%</td>  <td>59%</td>  <td>61%</td>
   </tr>  
 </table>
