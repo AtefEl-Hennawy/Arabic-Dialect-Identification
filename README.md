@@ -8,3 +8,23 @@ Africa region.
 
 * Linear SVM with simple tf-idf tokenization.
 * Bert base transformer pre trained on arabic tweets.
+
+<h2><b>Results</b></h1>
+
+<table style="width:100%">
+  <tr>
+    <th>Model</th>
+    <th>Macro Precision</th>
+    <th>Macro Recall</th>
+    <th>Macro F1-score</th>
+    <th>Accuracy</th>
+  </tr>
+  
+  <tr>
+    <td>LinearSVC</td> <td>60%</td>  <td>56%</td>  <td>57%</td>  <td>60%</td>
+  </tr>
+ 
+ <tr>
+    <td>AraBERTv0.2-Twitter</td> <td>60%</td>  <td>56%</td>  <td>57%</td>  <td>60%</td>
+  </tr>  
+</table>
