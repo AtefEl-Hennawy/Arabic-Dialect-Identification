@@ -7,7 +7,7 @@ Africa region.
 ## Approaches
 
 * Linear SVM with simple tf-idf tokenization.
-* Bert base transformer pre trained on arabic tweets.
+* Bert base transformer pre trained on arabic tweets fine tuned to QADI dataset.
 
 <h2><b>Results</b></h1>
 
