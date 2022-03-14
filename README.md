@@ -28,3 +28,5 @@ Africa region.
     <td>AraBERTv0.2-Twitter</td> <td>61%</td>  <td>58%</td>  <td>59%</td>  <td>61%</td>
   </tr>  
 </table>
+
+To reproduce these results you can run the jupyter notebooks.
